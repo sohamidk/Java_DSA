@@ -1,4 +1,5 @@
 public class Recursion3 {
+    //calculate factorial using recursion
     public static int calcFact(int n){
         if( n == 1 || n == 0){
             return 1;

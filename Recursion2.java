@@ -1,4 +1,5 @@
 public class Recursion2{
+    //print sum using recursion
     public static void printSum(int i, int n, int sum) {
         if(i == n){
             sum += i;
@@ -10,6 +11,6 @@ public class Recursion2{
     }
     public static void main(String args[]){
         printSum(1, 5, 0);
-        
+
     }
 }

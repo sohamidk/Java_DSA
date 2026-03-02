@@ -1,4 +1,5 @@
 public class Recursion1 {
+    //print 5 to 1 using recursion..
     public static void printNum(int n){
         if(n == 0){
             return;
