@@ -1,4 +1,5 @@
 public class Recursion5{
+    //calculate x^n using recursion with stack heigth n;
     public static int findXn(int x, int n){
         if(n == 0){
             return 1;
