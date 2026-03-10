@@ -1,7 +1,7 @@
 import java.util.HashSet;
 
 public class advRecursion8 {
-    public static String[] keypad = {".", "abc", "def", "ghi", "jkl", "mno", "pqr", "stu", "vwx", "yz"};
+    public static String[] keypad = {".", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tu", "vwx", "yz"};
 
     public static void printComb(String str, int idx, String combination){
         if(idx == str.length()){
