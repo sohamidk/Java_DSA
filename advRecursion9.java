@@ -16,5 +16,6 @@ public class advRecursion9 {
         String str = "abc";
         printPerm(str, "");
     }
+    //time complexity = O(n!)
     
 }
